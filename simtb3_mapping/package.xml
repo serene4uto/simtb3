@@ -8,7 +8,7 @@
   <license>TODO: License declaration</license>
 
   <depend>cartographer</depend>
-  <depend>cartographer_ros</depend>
+  <!-- <depend>cartographer_ros</depend> -->
   <depend>cartographer_rviz</depend>
 
   <export>
