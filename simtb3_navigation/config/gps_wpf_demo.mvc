@@ -23,7 +23,7 @@ displays:
       collapsed: false
       custom_sources:
         []
-      bing_api_key: "AnD4L_9FFGvvrT9-LpxrqDJYEg9z3I-33Y14xpaZGNNDXlTyZqe6tgBWoqdKZxII"
+      bing_api_key: ""
       source: Bing Maps (terrain)
   - type: mapviz_plugins/point_click_publisher
     name: new display
