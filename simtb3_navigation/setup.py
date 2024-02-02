@@ -26,7 +26,9 @@ setup(
         'console_scripts': [
             'interactive_waypoint_follower = simtb3_navigation.interactive_waypoint_follower:main',
             'gps_waypoints_planner = simtb3_navigation.gps_waypoints_planner:main',
-            'gps_waypoints_follower = simtb3_navigation.gps_waypoints_follower:main'
+            'gps_waypoints_follower = simtb3_navigation.gps_waypoints_follower:main',
+            'map2d_waypoints_planner = simtb3_navigation.map2d_waypoints_planner:main',
+            'map2d_waypoints_follower = simtb3_navigation.map2d_waypoints_follower:main',
         ],
     },
 )
